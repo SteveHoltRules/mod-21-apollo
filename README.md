@@ -5,7 +5,6 @@
 1. [Usage](#usage)
 2. [Features](#features)
 3. [Future Development](#future)
-8. [Tests](#tests)
 
 ## Usage
 This application used to search Google books using a React App using MongoDB and Apollo to send API calls. 
